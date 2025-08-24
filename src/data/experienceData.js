@@ -1,21 +1,21 @@
 export const experienceData = [
     {
         id: 1,
-        company: ' Dotdash Meredith, New York, US ',
+        company: '  People Inc., New York, US ',
         jobtitle: 'Senior Software Engineer',
         startYear: 'September 2024',
         endYear: 'Present'
     },
     {
         id: 2,
-        company: ' Morgan Stanley New York, US ',
+        company: ' Morgan Stanley, New York, US ',
         jobtitle: 'Software Engineer',
         startYear: ' November 2023 ',
         endYear: 'September 2024'
     },
     {
         id: 3,
-        company: 'Jefferies New Jersey, US ',
+        company: 'Jefferies, New Jersey, US ',
         jobtitle: 'Software Engineer',
         startYear: 'November 2022',
         endYear: 'September 2023'
